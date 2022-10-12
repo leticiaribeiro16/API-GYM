@@ -1,0 +1,38 @@
+[
+    {
+        "id":"1",
+        "nome":"Leg Press 45 graus",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2022/06/leg-press-45.jpg",
+        "descricao":"trabalha a área dos membros inferiores e glúteos"
+    },
+    {   
+        "id":"2",
+        "nome":"Cadeira Extensora",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2018/05/cadeira-extensora-exercicio.jpg",
+        "descricao":"trabalha a parte anterior das coxas"
+    },
+    {   
+        "id":"3",
+        "nome":"Supino reto com barra",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2018/09/supino-reto.jpg",
+        "descricao":"trabalha e define a área do peitoral"
+    }, 
+    {   
+        "id":"4",
+        "nome":"Rosca alternada com halters",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2020/10/rosca-alternada-com-halteres.jpg",
+        "descricao":"trabalha a área do seu bíceps"
+    }, 
+    {   
+        "id":"5",
+        "nome":"Remada articulada aberta",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2021/10/remada-articulada-aberta-820x394.jpg",
+        "descricao":"trabalha a área das costas"
+    }, 
+    {   
+        "id":"6",
+        "nome":"Elevação frontal",
+        "img":"https://grandeatleta.com.br/wp-content/uploads/2020/02/elevacao-frontal-650x394.jpg",
+        "descricao":"trabalha a área dos ombros"
+    }
+]
