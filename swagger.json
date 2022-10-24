@@ -1,0 +1,18 @@
+{
+    "openapi": "3.0.0",
+    "info": {
+        "title": "API de treinos",
+        "description": "Esta API tem como objetivo trazer treinos de musculação para que os usuários possam desfrutar dela em suas aplicações de treinos",
+        "termsOfService": "http://localhost:3000/terms",
+        "contact": {
+            "email": "leticiaribeirocontact@gmail.com"
+        },
+        "version": "1.0.0"
+    },
+    "servers": [
+        {
+            "url": "http://localhost:3000/treinos",
+            "description": "api de test"
+        }
+    ]
+}
